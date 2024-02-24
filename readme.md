@@ -3,6 +3,8 @@
 ## Requirements
 
 ```
+numpy=1.22.3
+sklearn=1.3.2
 ogb=1.3.6
 ```
 
