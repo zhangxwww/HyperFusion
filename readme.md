@@ -1,4 +1,4 @@
-# HyperMME: Multi-Model Ensemble on Hypergraph
+# HyperFusion: Multi-Model Ensemble on Hypergraph
 
 ## Requirements
 
@@ -40,8 +40,8 @@ The directory structure is as follows:
 ### Run the python script
 
 ```bash
-python HyperMME_collab.py
-python HyperMME_ddi.py
-python HyperMME_molhiv.py
-python HyperMME_molpcba.py
+python HyperFusion_collab.py
+python HyperFusion_ddi.py
+python HyperFusion_molhiv.py
+python HyperFusion_molpcba.py
 ```
